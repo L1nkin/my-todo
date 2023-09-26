@@ -1,0 +1,13 @@
+.customInput {
+    padding: 15px;
+    background: #FFFFFF;
+    box-shadow: 2px 0px 12px rgba(124, 75, 162, 0.2);
+    border-radius: 10px;
+    font-size: 14;
+    border: none;
+    outline: none;
+}
+
+.customInput:focus {
+    box-shadow: 2px 0px 12px rgba(124, 75, 162, 0.4);
+}
